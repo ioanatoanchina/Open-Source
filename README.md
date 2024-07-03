@@ -8,5 +8,6 @@ This represents the repository where are stored all the plot results of the simu
 - CO2 Emissions
 
 For each section, different indicators are displayed. The plots are made by using the library _plotly_.
-__
+
+
 Note! If there are any issues opening the plots, a download will solve the problem.
